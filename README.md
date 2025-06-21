@@ -1,7 +1,7 @@
 # UglylabLib
 
 **UglylabLib** is the core C++ simulation engine behind the Uglylab project. It provides foundational components for building complex, high-performance simulations combining agent-based modeling (ABM) and cellular automata (CA) on structured grids. The library is optimized for shared memory communication with a viewer process, allowing interactive visualization and external control. Designed for scientific modeling and extensibility.
-
+> ⚠️ **This project is in an early stage of development.** It is not ready for general use, remains undocumented, and currently includes no usage examples. Expect breaking changes, incomplete features and ongoing refactoring.
 ---
 
 ## ✨ Features
