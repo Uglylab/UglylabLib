@@ -30,3 +30,7 @@ LIBS += -pthread
 
 RESOURCES += \
     resources.qrc
+
+DISTFILES += \
+    LICENSE \
+    README.md
